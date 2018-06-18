@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.springwebapp.dao.CustomerDAO;
+
 import com.springwebapp.entity.Customer;
 import com.springwebapp.service.CustomerService;
 
