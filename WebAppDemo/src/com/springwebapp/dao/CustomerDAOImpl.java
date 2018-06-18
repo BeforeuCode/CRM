@@ -47,4 +47,15 @@ public class CustomerDAOImpl implements CustomerDAO {
 		
 	}
 
+	@Override
+	public Customer getCustomer(int theId){
+			
+		//get current HIB seession
+		Session currentSession = sessionFactory.getCurrentSession();
+		//read from DB using ID
+		Customer theCustomer = currentSession.get(Customer.class, theId);
+				
+		return theCustomer;
+	}
+
 }
