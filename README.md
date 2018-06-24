@@ -2,14 +2,14 @@
 
 Technologies used:
 =================================================================
-Spring
-Spring MVC
-Spring Security 
-Spring AOP
-Hibernate
-MySQL
-Maven
-a little of bootstrap
+*Spring
+*Spring MVC
+*Spring Security 
+*Spring AOP
+*Hibernate
+*MySQL
+*Maven
+*a little of bootstrap
 
 
 Overwiev
@@ -18,8 +18,7 @@ Web app based on Spring framework using Spring MVC.
 Data of customers and users is stored in MySQL Database and managed 
 by Hibernate. Acces, privilegs restriciton, password encryption is based on Spring Security.
 Bootstrap used for nicer look of loging page. Everything is being logged using 
-Spring AOP. Application is based on course: 
-https://www.udemy.com/spring-hibernate-tutorial/ by Chad Darby
+Spring AOP. Application is based on [course:](https://www.udemy.com/spring-hibernate-tutorial/) by Chad Darby
 
 Functionality
 ===================================================================
