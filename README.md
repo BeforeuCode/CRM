@@ -2,14 +2,14 @@
 
 Technologies used:
 =================================================================
-*Spring
-*Spring MVC
-*Spring Security 
-*Spring AOP
-*Hibernate
-*MySQL
-*Maven
-*a little of bootstrap
+* Spring
+* Spring MVC
+* Spring Security 
+* Spring AOP
+* Hibernate
+* MySQL
+* Maven
+* a little of bootstrap
 
 
 Overwiev
@@ -28,8 +28,8 @@ Functionality
 
 1. Loging in / Registering 
 
-![alt text](https://i.imgur.com/GZP6Iis.png)  
-![alt text](https://i.imgur.com/Dq2ilU2.png)
+![alt text](https://i.imgur.com/GZP6Iis.png) ![alt text](https://i.imgur.com/Dq2ilU2.png)
+
 
 2. Diffrent privilages of each role examples
 
